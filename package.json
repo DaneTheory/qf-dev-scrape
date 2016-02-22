@@ -1,12 +1,12 @@
 {
-  "name": "qf-scraper",
+  "name": "qf-dev-scrape",
   "version": "0.0.1",
   "description": "Grab QF Remote URL for local edits",
   "readmeFilename": "README.md",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "github.com/DaneTheory/node-website-scraper.git"
+    "url": "github.com/DaneTheory/qf-dev-scrape.git"
   },
   "keywords": [
     "scrape",
@@ -20,7 +20,7 @@
   ],
   "author": "DaneTheory",
   "license": "MIT",
-  "homepage": "https://github.com/DaneTheory/node-website-scraper",
+  "homepage": "https://github.com/DaneTheory/qf-dev-scrape",
   "dependencies": {
     "bluebird": "^3.0.1",
     "cheerio": "0.11.0",
