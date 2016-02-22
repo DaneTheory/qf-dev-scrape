@@ -1,5 +1,5 @@
 var Scraper = require('./lib/scraper.js');
 
-module.exports.qfScrape = function (options, callback) {
-  return new Scraper(options).qfScrape(callback);
+module.exports.scrape = function (options, callback) {
+  return new Scraper(options).scrape(callback);
 };
